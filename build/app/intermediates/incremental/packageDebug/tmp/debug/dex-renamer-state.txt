@@ -1,0 +1,4 @@
+#Fri Feb 10 21:46:18 EST 2023
+base.0=/Users/skaran/Downloads/bank_cards_ui-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
